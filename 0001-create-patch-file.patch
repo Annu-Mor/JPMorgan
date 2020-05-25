@@ -1,7 +1,7 @@
-From 4859fc201b17a518baa6c1f33ba40a2a5a524340 Mon Sep 17 00:00:00 2001
-From: souravs17031999 <souravs_1999@rediffmail.com>
-Date: Wed, 29 Apr 2020 17:43:40 +0530
-Subject: [PATCH] create patch file
+From 53622b3da76f93ebc09bfc8d623ddb894df443d6 May Sep 24 00:00:00 2020
+From: Annu-Mor <annumor1619@gmail.com>
+Date: Thu, 21 May 2020 08:51:01 +0530
+Subject: [PATCH] Create patch file
 
 ---
  datafeed/server3.py    |  4 ++--
